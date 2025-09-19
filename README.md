@@ -19,7 +19,10 @@ Exercises:
 ---
 
 ## 📘 Chapter 2 – Scaffold-free biofabrication and ECM
-*(coming soon)*
+[Launch Chapter 2 Exercises](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter2_Exercises_Starter.ipynb)**
+- Spheroid Formation Method Comparison
+- ECM Composition Analyzer
+- Bioreactor Design Optimizer
 
 ---
 
