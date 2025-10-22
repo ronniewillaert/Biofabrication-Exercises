@@ -32,7 +32,20 @@ Exercises:
 ---
 
 ## 📘 Chapter 4 – Bioprinting
-*(coming soon)*
+### Chapter 4 — Bioprinting
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Interactive_Exercises_v1.ipynb)
+
+Exercises:
+- Photocuring dose & exposure
+- Layer-by-layer build time and SLA exposure budgeting
+- Mass of printed implants (infill)
+- Diffusion–reaction viable thickness
+- Effective diffusivity in hydrogels
+- Extrusion flow & wall shear stress
+- Composite modulus (Voigt/Reuss bounds)
+- 4D bilayer bending (bonus)
+
 
 ---
 
