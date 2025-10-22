@@ -77,7 +77,7 @@ Exercises:
 
 1. **[Exercise 1: Cell Viability Method](./Chapter4_Exercise1_Method_Comparison.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise1_Method_Comparison.ipynb)
 
-2. **[Exercise 2: Bioink Rheology](./Chapter4_Exercise2_Bioink_Rheology.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise2_Bioink_Rheology.ipynb)
+2. **[Exercise 2: Temperature Effects](./Chapter4_Exercise2_Temperature_Effects.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise2_Temperature_Effects.ipynb)
 
 3. **[Exercise 3: Shear Stress & Cell Viability](./Chapter4_Exercise3_Shear_Stress_Cell_Viability.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise3_Shear_Stress_Cell_Viability.ipynb)
 
