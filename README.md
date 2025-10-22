@@ -31,16 +31,17 @@ Exercises:
 
 ---
 
+---
+
 ## 📘 Chapter 4 – Bioprinting
+
 ### Chapter 4 — Bioprinting
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Interactive_Exercises_v3.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Interactive_Exercises_v3.ipynb)
 
-Exercises with interactive sliders: dose/exposure, layer time, SLA exposure, mass vs infill, diffusion–reaction viable thickness, effective diffusivity, extrusion flow & wall shear, composite modulus, 4D bilayer curvature (bonus).
+**Original bundled exercises** with interactive sliders: dose/exposure, layer time, SLA exposure, mass vs infill, diffusion–reaction viable thickness, effective diffusivity, extrusion flow & wall shear, composite modulus, 4D bilayer curvature (bonus).
 
-
-
-Exercises:
+**Exercises:**
 - Photocuring dose & exposure
 - Layer-by-layer build time and SLA exposure budgeting
 - Mass of printed implants (infill)
@@ -49,29 +50,46 @@ Exercises:
 - Extrusion flow & wall shear stress
 - Composite modulus (Voigt/Reuss bounds)
 - 4D bilayer bending (bonus)
-## Chapter 4: Bioprinting Processes
 
-**Complete exercise series (8 notebooks)** covering:
-- Cell viability and shear stress
-- Temperature effects
+---
+
+### Chapter 4: Bioprinting Processes — Individual Exercise Series
+
+**Complete exercise series (8 individual notebooks)** covering advanced topics with comprehensive modeling:
+
+**Topics covered:**
+- Cell viability and shear stress analysis
+- Temperature effects and thermal damage
 - Mass transport and diffusion
-- Gelation kinetics
-- Photopolymerization
-- Scaffold architecture
-- Bioink rheology
-- **Integrated process design (capstone)**
+- Gelation kinetics and crosslinking
+- Photopolymerization physics
+- Scaffold architecture and porosity
+- Bioink rheology and printability
+- **Integrated process design (capstone project)**
 
-📂 [View Chapter 4 Exercises](./Chapter4_Python_Exercises/)
+📂 [View Chapter 4 Detailed Exercises Folder](./Chapter4_Python_Exercises/)
 
-### Quick Access:
-1. [Exercise 1: Cell Viability](./Chapter4_Python_Exercises/Chapter4_Exercise1_Cell_Viability_Shear_Stress.ipynb)
-2. [Exercise 2: Temperature Effects](./Chapter4_Python_Exercises/Chapter4_Exercise2_Temperature_Thermal_Damage.ipynb)
-3. [Exercise 3: Mass Transport](./Chapter4_Python_Exercises/Chapter4_Exercise3_Mass_Transport_Diffusion.ipynb)
-4. [Exercise 4: Gelation Kinetics](./Chapter4_Python_Exercises/Chapter4_Exercise4_Gelation_Kinetics_Crosslinking.ipynb)
-5. [Exercise 5: Photopolymerization](./Chapter4_Python_Exercises/Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb)
-6. [Exercise 6: Scaffold Architecture](./Chapter4_Python_Exercises/Chapter4_Exercise6_Scaffold_Architecture_Porosity.ipynb)
-7. [Exercise 7: Bioink Rheology](./Chapter4_Python_Exercises/Chapter4_Exercise7_Bioink_Rheology_Printability.ipynb)
-8. [Exercise 8: Integrated Design ⭐](./Chapter4_Python_Exercises/Chapter4_Exercise8_Integrated_Process_Design.ipynb)
+#### Quick Access to Individual Exercises:
+
+1. **[Exercise 1: Cell Viability & Shear Stress](./Chapter4_Exercise1_Method_Cell_Viability_Shear_Stress.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise1_Method_Cell_Viability_Shear_Stress.ipynb)
+
+2. **[Exercise 2: Temperature Effects](./Chapter4_Exercise2_BioInk_Rheology.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise2_BioInk_Rheology.ipynb)
+
+3. **[Exercise 3: Mass Transport](./Chapter4_Exercise3_Shear_Stress.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise3_Shear_Stress.ipynb)
+
+4. **[Exercise 4: Gelation Kinetics](./Chapter4_Exercise4_Inkjet_Droplet.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise4_Inkjet_Droplet.ipynb)
+
+5. **[Exercise 5: Photopolymerization](./Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb)
+
+6. **[Exercise 6: Scaffold Architecture](./Chapter4_Exercise6_Scaffold_Architecture_Porosity.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise6_Scaffold_Architecture_Porosity.ipynb)
+
+7. **[Exercise 7: Bioink Rheology](./Chapter4_Exercise7_Bioink_Rheology_Printability.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise7_Bioink_Rheology_Printability.ipynb)
+
+8. **[Exercise 8: Integrated Design](./Chapter4_Exercise8_Integrated_Process_Design.ipynb)** ⭐ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise8_Integrated_Process_Design.ipynb)
+
+📖 **[Complete Exercise Guide & README](./README_Chapter4_Exercises.md)**
+
+---
 
 ---
 
