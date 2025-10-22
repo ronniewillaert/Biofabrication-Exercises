@@ -34,9 +34,10 @@ Exercises:
 ## 📘 Chapter 4 – Bioprinting
 ### Chapter 4 — Bioprinting
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Interactive_Exercises_v2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Interactive_Exercises_v3.ipynb)
 
 Exercises with interactive sliders: dose/exposure, layer time, SLA exposure, mass vs infill, diffusion–reaction viable thickness, effective diffusivity, extrusion flow & wall shear, composite modulus, 4D bilayer curvature (bonus).
+
 
 
 Exercises:
