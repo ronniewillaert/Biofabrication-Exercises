@@ -69,27 +69,42 @@ Exercises:
 
 📂 [View Chapter 4 Detailed Exercises Folder](./Chapter4_Python_Exercises/)
 
+### Chapter 4: Bioprinting Processes — Individual Exercise Series
+
+**Complete exercise series (8 individual notebooks)** covering advanced topics with comprehensive modeling:
+
 #### Quick Access to Individual Exercises:
 
-1. **[Exercise 1: Cell Viability & Shear Stress](./Chapter4_Exercise1_Method_Cell_Viability_Shear_Stress.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise1_Method_Cell_Viability_Shear_Stress.ipynb)
+1. **[Exercise 1: Cell Viability Method](./Chapter4_Exercise1_Method_Comparison.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise1_Method_Comparison.ipynb)
 
-2. **[Exercise 2: Temperature Effects](./Chapter4_Exercise2_BioInk_Rheology.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise2_BioInk_Rheology.ipynb)
+2. **[Exercise 2: Bioink Rheology](./Chapter4_Exercise2_Bioink_Rheology.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise2_Bioink_Rheology.ipynb)
 
-3. **[Exercise 3: Mass Transport](./Chapter4_Exercise3_Shear_Stress.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise3_Shear_Stress.ipynb)
+3. **[Exercise 3: Shear Stress & Cell Viability](./Chapter4_Exercise3_Shear_Stress_Cell_Viability.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise3_Shear_Stress_Cell_Viability.ipynb)
 
-4. **[Exercise 4: Gelation Kinetics](./Chapter4_Exercise4_Inkjet_Droplet.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise4_Inkjet_Droplet.ipynb)
+4. **[Exercise 4: Inkjet Droplet Dynamics](./Chapter4_Exercise4_Inkjet_Droplet_Dynamics.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise4_Inkjet_Droplet_Dynamics.ipynb)
 
-5. **[Exercise 5: Photopolymerization](./Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb)
+5. **[Exercise 5: Photopolymerization Kinetics](./Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb)** 🆕 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb)
 
-6. **[Exercise 6: Scaffold Architecture](./Chapter4_Exercise6_Scaffold_Architecture_Porosity.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise6_Scaffold_Architecture_Porosity.ipynb)
+6. **[Exercise 6: Scaffold Architecture & Porosity](./Chapter4_Exercise6_Scaffold_Architecture_Porosity.ipynb)** 🆕 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise6_Scaffold_Architecture_Porosity.ipynb)
 
-7. **[Exercise 7: Bioink Rheology](./Chapter4_Exercise7_Bioink_Rheology_Printability.ipynb)** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise7_Bioink_Rheology_Printability.ipynb)
+7. **[Exercise 7: Bioink Rheology & Printability](./Chapter4_Exercise7_Bioink_Rheology_Printability.ipynb)** 🆕 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise7_Bioink_Rheology_Printability.ipynb)
 
-8. **[Exercise 8: Integrated Design](./Chapter4_Exercise8_Integrated_Process_Design.ipynb)** ⭐ [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise8_Integrated_Process_Design.ipynb)
+8. **[Exercise 8: Integrated Process Design](./Chapter4_Exercise8_Integrated_Process_Design.ipynb)** ⭐ 🆕 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise8_Integrated_Process_Design.ipynb)
 
 📖 **[Complete Exercise Guide & README](./README_Chapter4_Exercises.md)**
+```
 
----
+## ✅ How to Test If Links Work Now:
+
+1. **Click on one of the new file names** in your GitHub repository (e.g., Chapter4_Exercise5_Photopolymerization_...)
+2. **Copy the exact full filename** from the browser URL
+3. **Try the Colab badge** - it should work now!
+
+## 🔍 Quick Test
+
+Try this link directly in your browser:
+```
+https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb
 
 ---
 
