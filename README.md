@@ -49,7 +49,29 @@ Exercises:
 - Extrusion flow & wall shear stress
 - Composite modulus (Voigt/Reuss bounds)
 - 4D bilayer bending (bonus)
+## Chapter 4: Bioprinting Processes
 
+**Complete exercise series (8 notebooks)** covering:
+- Cell viability and shear stress
+- Temperature effects
+- Mass transport and diffusion
+- Gelation kinetics
+- Photopolymerization
+- Scaffold architecture
+- Bioink rheology
+- **Integrated process design (capstone)**
+
+📂 [View Chapter 4 Exercises](./Chapter4_Python_Exercises/)
+
+### Quick Access:
+1. [Exercise 1: Cell Viability](./Chapter4_Python_Exercises/Chapter4_Exercise1_Cell_Viability_Shear_Stress.ipynb)
+2. [Exercise 2: Temperature Effects](./Chapter4_Python_Exercises/Chapter4_Exercise2_Temperature_Thermal_Damage.ipynb)
+3. [Exercise 3: Mass Transport](./Chapter4_Python_Exercises/Chapter4_Exercise3_Mass_Transport_Diffusion.ipynb)
+4. [Exercise 4: Gelation Kinetics](./Chapter4_Python_Exercises/Chapter4_Exercise4_Gelation_Kinetics_Crosslinking.ipynb)
+5. [Exercise 5: Photopolymerization](./Chapter4_Python_Exercises/Chapter4_Exercise5_Photopolymerization_Kinetics.ipynb)
+6. [Exercise 6: Scaffold Architecture](./Chapter4_Python_Exercises/Chapter4_Exercise6_Scaffold_Architecture_Porosity.ipynb)
+7. [Exercise 7: Bioink Rheology](./Chapter4_Python_Exercises/Chapter4_Exercise7_Bioink_Rheology_Printability.ipynb)
+8. [Exercise 8: Integrated Design ⭐](./Chapter4_Python_Exercises/Chapter4_Exercise8_Integrated_Process_Design.ipynb)
 
 ---
 
