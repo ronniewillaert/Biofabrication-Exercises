@@ -111,24 +111,26 @@ https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises
 ## 📘 Chapter 5 – Bioreactors and tissue maturation
 ## Chapter 5 — Bioreactors and Tissue Maturation (Interactive)
 
-**What you’ll explore**
-- **Diffusion–reaction in tissues (Fick’s laws)** with sliders for \(D_e\), \(k\), slab thickness \(L\), and time horizon.
-- **Wall shear stress** in rectangular perfusion channels; sweep flow to see physiological ranges.
-- **Perfusion design helper** using Péclet and Damköhler numbers with regime hints and quick plots.
-
-**Launch in Colab**
+**Launch in Colab**  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter5_Interactive_Exercises_with_Widgets.ipynb)
 
-**Learning objectives**
-- Interpret **Fick’s 1st/2nd laws** in the context of 3D tissues; relate to penetration depth \(L_p \approx \sqrt{D/k}\).
-- Estimate **shear stress** from geometry and flow; compare to endothelial physiological ranges (≈0.5–2 Pa).
-- Use **Pe, Da\(_I\), Da\(_{II}\)** to reason about diffusion vs. convection vs. consumption in perfusion bioreactors.
+**What’s inside**
+- **Diffusion–reaction visualizer (Fick’s laws)** with sliders for \(D_e\), \(k\), slab thickness \(L\), time horizon, and a **k=0** toggle.
+- **Shear-stress calculator** for rectangular perfusion channels; quick sensitivity vs. flow.
+- **Perfusion design helper** computing **Péclet** and **Damköhler** numbers with trend plots.
 
-**Suggested activities**
-- Match diffusion parameters to **Figure 5.4** profiles from the syllabus.
-- Tune flow until shear is physiological; then check how Pe and Da shift with velocity.
-- Design a perfusion regime that keeps concentration >90% across a 1-mm scaffold and justify with Pe/Da.
+**Tissue presets (auto-fill parameters)**
+- Cartilage · Cardiac · Liver · **Brain** · **Skin**
+
+**Learning goals**
+- Relate Fick’s 1st/2nd laws to penetration depth \(L_p \approx \sqrt{D/k}\) and time-dependent profiles.
+- Estimate physiological shear ranges (endothelium ≈ 0.5–2 Pa).
+- Use **Pe**, **Da\(_I\)**, **Da\(_{II}\)** to reason about diffusion vs. convection vs. consumption.
+
+**Requirements**
+- Works in **Google Colab** out of the box (widget manager auto-enabled in the notebook).
+- Local Jupyter: `pip install ipywidgets` (JupyterLab 3+ enables widgets by default).
 
 ---
 
