@@ -109,7 +109,39 @@ https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises
 ---
 
 ## 📘 Chapter 5 – Bioreactors and tissue maturation
-*(coming soon)*
+## Chapter 5 — Bioreactors and Tissue Maturation (Interactive)
+
+**What you’ll explore**
+- **Diffusion–reaction in tissues (Fick’s laws)** with sliders for \(D_e\), \(k\), slab thickness \(L\), and time horizon.
+- **Wall shear stress** in rectangular perfusion channels; sweep flow to see physiological ranges.
+- **Perfusion design helper** using Péclet and Damköhler numbers with regime hints and quick plots.
+
+**Launch in Colab**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/ronniewillaert/Biofabrication-Exercises/blob/main/Chapter5_Interactive_Exercises_with_Widgets.ipynb)
+
+**Learning objectives**
+- Interpret **Fick’s 1st/2nd laws** in the context of 3D tissues; relate to penetration depth \(L_p \approx \sqrt{D/k}\).
+- Estimate **shear stress** from geometry and flow; compare to endothelial physiological ranges (≈0.5–2 Pa).
+- Use **Pe, Da\(_I\), Da\(_{II}\)** to reason about diffusion vs. convection vs. consumption in perfusion bioreactors.
+
+**Suggested activities**
+- Match diffusion parameters to **Figure 5.4** profiles from the syllabus.
+- Tune flow until shear is physiological; then check how Pe and Da shift with velocity.
+- Design a perfusion regime that keeps concentration >90% across a 1-mm scaffold and justify with Pe/Da.
+
+---
+
+### Repository structure (excerpt)
+- `Chapter2_...ipynb` — Spheroids, ECM, micromolding
+- `Chapter3_Interactive_Exercise*.ipynb` — Organ-on-chip, microfluidics, sensors
+- `Chapter4_Exercise*.ipynb` — Bioprinting (rheology, droplet, photopolymerization)
+- `Chapter5_Interactive_Exercises_with_Widgets.ipynb` — **New: bioreactors, diffusion, shear, perfusion**
+
+### Requirements
+Works in **Google Colab** out of the box. Local use: `pip install ipywidgets` and enable Jupyter widgets extension (JupyterLab 3+ auto-enables).
+
+
 
 ---
 
